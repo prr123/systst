@@ -1,0 +1,4 @@
+github.com/sahne/eventfd v0.0.0-20151103201741-e82ae28f2b6f h1:CkZFAHgNWcnZnxQuE/YG+zT+nTafz6a4QFuDYPNMzyM=
+github.com/sahne/eventfd v0.0.0-20151103201741-e82ae28f2b6f/go.mod h1:9KOnTbIeeI0Dc4LxNnyTnc7jAn8JdMdh7gkz2lPZjag=
+golang.org/x/sys v0.0.0-20201112073958-5cba982894dd h1:5CtCZbICpIOFdgO940moixOPjc0178IU44m4EjOO5IY=
+golang.org/x/sys v0.0.0-20201112073958-5cba982894dd/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
