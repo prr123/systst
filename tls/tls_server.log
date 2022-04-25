@@ -1,0 +1,30 @@
+15:23:47.398023 TLS_Server Log
+15:24:11.243283 server: conn accepted from:  127.0.0.1:58106
+15:24:11.243303 TLS ok 127.0.0.1:58106
+15:24:11.243593 server: conn accepted from:  127.0.0.1:58108
+15:24:11.243598 TLS ok 127.0.0.1:58108
+15:24:11.243893 server: conn:  127.0.0.1:58108 waiting
+15:24:11.243911 server: conn:  127.0.0.1:58106 waiting
+15:24:11.247173 server read: 127.0.0.1:58108 "GET / HTTP/1.1\r\nHost: localhost:8011\r\nConnection: keep-alive\r\nsec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\", \"Google Chrome\";v=\"90\"\r\nsec-ch-ua-mobile: ?0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: navigate\r"
+15:24:11.247178 server: conn:  127.0.0.1:58108 waiting
+15:24:11.247183 server read: 127.0.0.1:58108 "\nSec-Fetch-User: ?1\r\nSec-Fetch-Dest: document\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: en-GB,en;q=0.9,es-ES;q=0.8,es;q=0.7,de-DE;q=0.6,de;q=0.5,fr-FR;q=0.4,fr;q=0.3,en-US;q=0.2\r\n\r\n"
+15:24:11.247185 server: conn:  127.0.0.1:58108 waiting
+15:24:11.507585 server: conn accepted from:  127.0.0.1:58110
+15:24:11.507606 TLS ok 127.0.0.1:58110
+15:24:11.507660 server: conn:  127.0.0.1:58110 waiting
+15:25:12.891206 server  127.0.0.1:58110  conn closing
+15:25:12.891224 server  127.0.0.1:58106  conn closing
+15:25:48.747014 server  127.0.0.1:58108  conn closing
+15:25:49.064911 server: conn accepted from:  127.0.0.1:58112
+15:25:49.064933 TLS ok 127.0.0.1:58112
+15:25:49.064965 server: conn accepted from:  127.0.0.1:58114
+15:25:49.064970 TLS ok 127.0.0.1:58114
+15:25:49.064989 server: conn:  127.0.0.1:58114 waiting
+15:25:49.064998 server: conn:  127.0.0.1:58112 waiting
+15:25:49.066809 server read: 127.0.0.1:58114 "GET / HTTP/1.1\r\nHost: localhost:8011\r\nConnection: keep-alive\r\nsec-ch-ua: \" Not A;Brand\";v=\"99\", \"Chromium\";v=\"90\", \"Google Chrome\";v=\"90\"\r\nsec-ch-ua-mobile: ?0\r\nUpgrade-Insecure-Requests: 1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9\r\nSec-Fetch-Site: none\r\nSec-Fetch-Mode: navigate\r"
+15:25:49.066815 server: conn:  127.0.0.1:58114 waiting
+15:25:49.066823 server read: 127.0.0.1:58114 "\nSec-Fetch-User: ?1\r\nSec-Fetch-Dest: document\r\nAccept-Encoding: gzip, deflate, br\r\nAccept-Language: en-GB,en;q=0.9,es-ES;q=0.8,es;q=0.7,de-DE;q=0.6,de;q=0.5,fr-FR;q=0.4,fr;q=0.3,en-US;q=0.2\r\n\r\n"
+15:25:49.066825 server: conn:  127.0.0.1:58114 waiting
+15:25:49.303943 server: conn accepted from:  127.0.0.1:58116
+15:25:49.303973 TLS ok 127.0.0.1:58116
+15:25:49.304029 server: conn:  127.0.0.1:58116 waiting
