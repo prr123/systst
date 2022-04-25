@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="test site for web socket">
+  <meta name="keywords" content="Go, ws">
+  <meta name="author" content="prr">
+  <meta name="date" content="22\3\2021">
+  <meta  name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Web Socket Demo</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  list-style: none;
+  text-decoration:none;
+}
+</style>
+</head>
+<body>
+  <h1>Web Sockets Test</h1>
+  <div id="top">
+  <p>web socket connection status</p>
+  <BR>
+  <p> start the web socket connection </p>
+  <button id="butopen" class="but">Open WS Conn</button>
+  </div>
+  <div id="bot">
+	<input id="wsinp" type="text" value="hello ws server">
+    <button id="butsend" class="but">send</button>
+	  <div id="recmsg">
+	  </div>
+	</div>
+  </div>
+</body>
+</html>
